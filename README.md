@@ -3,7 +3,7 @@ DataDraw
 
 Data visualisation JS API for Google Maps
 
-![View](/../images/view.png?raw=true "View")
+![View](view.png)
 
 Dependencies : 
 	CanvasLayer.js (from google maps utility library v3), 
